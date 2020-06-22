@@ -1,0 +1,5 @@
+scikit-learn
+wheel
+ujson
+psutil
+python-rapidjson
