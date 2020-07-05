@@ -1,6 +1,7 @@
 shopee-product-detection-dataset/
 .DS_Store
 .ipynb_checkpoints
+*.h5
 
 venvc/
 env/
