@@ -47,3 +47,10 @@ df['review'] = df['review'].apply(removeStopWords)
 df = df[df["review"] != ""]
 
 ```
+
+<hr>
+
+### Here are some data related to BERT that you can read. The explanation is rigorous:
+```
+https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX#scrollTo=blqIvQaQncdJ
+```
