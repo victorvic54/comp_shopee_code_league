@@ -1,0 +1,13 @@
+variabel,sample Data,Deskripsi
+cash_in_echannel,7924470584.04,Total Kas Masuk pada kas eChannel (ATM dan CRM)
+cash_out_echannel,7924470584.04,Total Kas keluar pada kas eChannel (ATM dan CRM)
+cash_in_kantor,13722997603.6,Total kas masuk pada kas kantor
+cash_out_kantor,-27676440603.6,Total kas keluar pada kas kantor
+cr_ketetapan_total_bkn_sum,4.35,Maksimum cash ratio yang dii tetapkan kantor pusat
+giro,53552471293.25,Total simpanan giro
+deposito,13446147793,Total simpanan deposito
+kewajiban_lain,3490872011.5,"Simpanan selain giro tabungan dan deposito ,salah satunya adalah surat berharga yang diterbitkan"
+tabungan,165989303735.09,Total simpanan tabungan
+rata_dpk_mingguan,240190576318.8,rata - rata saldo DPK mingguan
+kas_kantor,4462235292.02,Total Dari kas kantor
+kas_echannel,8924470584.04,Total dari kas eChannel
